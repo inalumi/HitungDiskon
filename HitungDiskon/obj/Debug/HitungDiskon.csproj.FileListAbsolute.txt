@@ -1,0 +1,10 @@
+D:\Project Latihan 2\HitungDiskon\HitungDiskon\bin\Debug\HitungDiskon.exe.config
+D:\Project Latihan 2\HitungDiskon\HitungDiskon\bin\Debug\HitungDiskon.exe
+D:\Project Latihan 2\HitungDiskon\HitungDiskon\bin\Debug\HitungDiskon.pdb
+D:\Project Latihan 2\HitungDiskon\HitungDiskon\obj\Debug\HitungDiskon.csprojAssemblyReference.cache
+D:\Project Latihan 2\HitungDiskon\HitungDiskon\obj\Debug\HitungDiskon.Form1.resources
+D:\Project Latihan 2\HitungDiskon\HitungDiskon\obj\Debug\HitungDiskon.Properties.Resources.resources
+D:\Project Latihan 2\HitungDiskon\HitungDiskon\obj\Debug\HitungDiskon.csproj.GenerateResource.cache
+D:\Project Latihan 2\HitungDiskon\HitungDiskon\obj\Debug\HitungDiskon.csproj.CoreCompileInputs.cache
+D:\Project Latihan 2\HitungDiskon\HitungDiskon\obj\Debug\HitungDiskon.exe
+D:\Project Latihan 2\HitungDiskon\HitungDiskon\obj\Debug\HitungDiskon.pdb
